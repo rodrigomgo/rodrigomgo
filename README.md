@@ -1,7 +1,7 @@
 ### Olá mundo 👋
 
-- 🔭 Atualmente desenvolvo utilizando Delphi na Contmatic Phoenix.
-- ⚡ Gamer.
+- Atualmente desenvolvo utilizando Delphi na Contmatic Phoenix.
+- Gamer.
 - RPGista.
 - Escritor.
 - Pai.
