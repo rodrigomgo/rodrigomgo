@@ -7,11 +7,11 @@ Buscando novos conhecimentos.
 - Atualmente atuando na Contmatic Phoenix. :chart_with_downwards_trend:
 - Hobbies: :movie_camera: :computer: :tv: :video_game: :game_die:
 
-- Estou aprendendo:
+### Estou aprendendo:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
-- Contatos:
+### Contatos:
 
 <div>
 <a href="https://instagram.com/rodrigomgoliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
