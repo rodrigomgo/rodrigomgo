@@ -1,10 +1,10 @@
-Olá mundo. 👋 Meu nome é Rodrigo M. G. Oliveira
+Olá mundo. 👋 Meu nome é Rodrigo M. G. Oliveira.
+Bem vindo ao meu GitHub.
 ===============================================
 
-Desenvolvedor Delphi, SQL Server e Oracle
------------------------------------------
+Desenvolvedor Delphi, SQL Server e Oracle.
+Buscando novos conhecimentos.
+-----------------------------------------------
 
-Trabalho a mais de 10 anos com Delphi, SQL Server e Oracle, mas agora e sempre buscando por novos conhecimentos.
+- :chart_with_downwards_trend: Atualmente atuando na Contmatic Phoenix.
 
-*   🌍  Moro em Betim, MG, Brasil.
-*   ✉️  Email-me: [rodrigomgo@gmail.com](mailto:rodrigomgo@gmail.com)
