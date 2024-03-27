@@ -1,10 +1,9 @@
 Olá mundo. 👋 Meu nome é Rodrigo M. G. Oliveira.
 ===============================================
 Desenvolvedor Full Stack.
-Buscando novos conhecimentos.
 -----------------------------------------------
 
-- Atualmente atuando na Contmatic Phoenix. :chart_with_downwards_trend:
+- Atuando na Contmatic Phoenix. :chart_with_downwards_trend:
 - Hobbies: :movie_camera: :computer: :tv: :video_game: :game_die:
 
 #### :book: Aprendendo:
